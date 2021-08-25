@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "This is a mobile app for Searching and Reading StackOverflow questions",
+    "githubUrl": "https://github.com/Glitchrex"
   }
 }
